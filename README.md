@@ -1,6 +1,6 @@
 # Logger Extension
 
-Logger is a simple browser extension that allows you to save and manage URLs. You can use it to store custom URLs or quickly save the URL of the currently open tab. This README provides an overview of the extension's features and instructions for installation and usage.
+Logger is a browser extension that allows you to save and manage URLs. You can use it to store custom URLs or quickly save the URL of the currently open tab. This README provides an overview of the extension's features and instructions for installation and usage.
 
 ## Features
 
@@ -10,7 +10,7 @@ Logger is a simple browser extension that allows you to save and manage URLs. Yo
 - Save links from any website with a single click.
 
 ## Screenshots
-![Logger extension](Logger2.png)
+![Logger extension](Logger-ss.png)
 
 ## Installation
 
