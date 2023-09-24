@@ -1,0 +1,62 @@
+body {
+    margin: 10px;
+    padding: 10px;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+}
+
+input:focus {
+    border-color: #007BFF;
+    outline: none;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    background: linear-gradient(90deg, #FF6B6B, #6B6BFF);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background: linear-gradient(90deg, #FF81A4, #84A4FF);
+    transform: scale(1.1);
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin: 4px;
+    padding: 4px;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+ul li a {
+    padding: 4px;
+    text-decoration: none;
+    border-radius: 7px;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the links */
+ul li a:hover {
+    background-color: #f0f0f0;
+}
