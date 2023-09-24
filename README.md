@@ -60,7 +60,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. This means that you are free to use, modify, and distribute the code for any purpose, including commercial use.
+This project is licensed under the MIT License. This means that you are free to use, modify, and distribute the code for any purpose, including commercial use. See the [LICENSE](LICENSE) file for details.
 
 ## Made with love by Hari Om
 
