@@ -9,7 +9,7 @@ Logger is a simple browser extension that allows you to save and manage URLs. Yo
 - Remove all saved links.
 - Save links from any website with a single click.
 
-![Logger extension](Logger1.png)
+## Screenshots
 ![Logger extension](Logger2.png)
 
 ## Installation
